@@ -1,7 +1,7 @@
 ## Text formats
 This dataset is available in two text formats, namely ~
-* [TXT](./dataset.txt)
-* [CSV](./dataset.csv)
+* [TXT](./database.txt)
+* [CSV](./database.csv)
                                
 The usage of both these files is simple.       
 #### 1. TXT File
