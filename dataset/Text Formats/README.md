@@ -15,7 +15,7 @@ tongue_twisters = tongue_twisters_str.split('|')
 ```
 Done 🎉 You're good to go!                          
 #### 2. CSV File
-we have created the CSV file with all the different examples in rows.               
+We have created the CSV file with all the different examples in rows.               
 Thus, using it would look like the below.
 ```py
 # Using Pandas, as it is very commonly used for Data Science
