@@ -20,11 +20,10 @@ Thus, using it would look like the below.
 ```py
 # Using Pandas, as it is very commonly used for Data Science
 import pandas as pd
-# The reason of using the | symbol as a separator is simply to not use the default separator(,) as the data contains commas.
+# Simply importing it as a pandas DataFrame
 tongue_twister = pd.read_csv(
                              "https://raw.githubusercontent.com/djthegr8/tongue-twisters/main/dataset/Text%20Formats/database.csv",
                              header=None,
-                             sep='|',
                              )[0].to_frame()
 # To see the first few tongue twisters
 tongue_twister.head()
