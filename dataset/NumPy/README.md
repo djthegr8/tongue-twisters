@@ -1,5 +1,5 @@
 ## NumPy format
-Due to the increasing usage of `.npy` files, the tongue twwister dataset is available in that format too.
+Due to the increasing usage of `.npy` files, the tongue twister dataset is available in that format too.
                                
 The usage of this file is easy using NumPy.       
 #### Usage
