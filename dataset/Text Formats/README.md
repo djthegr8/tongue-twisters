@@ -22,8 +22,8 @@ Thus, using it would look like the below.
 import pandas as pd
 # The reason of using the pipe symbol as a separator is simply to not use the default comma, as the data contains a few commas.
 tongue_twisters = pd.read_csv("https://raw.githubusercontent.com/djthegr8/tongue-twisters/main/dataset/Text%20Formats/database.csv",
-sep="|", 
-header=None)
+                              sep="|", 
+                              header=None)
 # To see the first few tongue twisters
 tongue_twisters.head()
 ```
