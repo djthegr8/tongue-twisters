@@ -22,11 +22,11 @@ Thus, using it would look like the below.
 import pandas as pd
 # The reason of using the | symbol as a separator is simply to not use the default separator(,) as the data contains commas.
 tongue_twister = pd.read_csv(
-                              "https://raw.githubusercontent.com/djthegr8/tongue-twisters/main/dataset/Text%20Formats/database.csv",
-                              sep="|",
-                              delimiter=",",
-                              header=None
-                              )
+                             "https://raw.githubusercontent.com/djthegr8/tongue-twisters/main/dataset/Text%20Formats/database.csv",
+                             sep="|",
+                             delimiter=",",
+                             header=None
+                             )
 # To see the first few tongue twisters
 tongue_twister.head()
 ```
