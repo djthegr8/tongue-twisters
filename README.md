@@ -6,7 +6,7 @@ The collection of data is from Web Scraping, and this dataset is very much in de
 ## Why?
 Personally, I have always liked tongue twisters. They are an important part of linguistics for any language. The motive behind this is to, hopefully, train Machine Learning models that have potential to ~
 * Identify
-* Differenciate
+* Differentiate
 * and Generate                      
 
 tongue twisters just like humans!
